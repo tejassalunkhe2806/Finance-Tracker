@@ -31,9 +31,9 @@ function Login() {
       <div className="w-full max-w-md">
         <div className="text-center mb-6">
           <h1 className="text-2xl font-bold font-display tracking-tight text-slate-900">
-            Aethera Finance
+            Finance Tracker
           </h1>
-          <p className="text-slate-500 text-sm mt-1">Sign in to manage your wealth companion.</p>
+          <p className="text-slate-500 text-sm mt-1">Sign in to manage your finances.</p>
         </div>
 
         <div className="bg-white border border-slate-200 rounded-2xl p-8 shadow-sm">

@@ -1024,7 +1024,7 @@ function Dashboard() {
       <aside className={`w-64 border-r flex flex-col justify-between p-6 shrink-0 z-10 print:hidden ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-slate-200'}`}>
         <div className="space-y-8">
           <div className="flex items-center justify-between px-1">
-            <span className="font-display font-bold text-sm tracking-wider uppercase">Aethera Finance</span>
+            <span className="font-display font-bold text-sm tracking-wider uppercase">Finance Tracker</span>
             <button
               onClick={toggleTheme}
               className={`p-1.5 rounded-lg border transition-all ${isDark ? 'border-slate-800 text-slate-400 hover:text-slate-200 hover:bg-slate-800' : 'border-slate-200 text-slate-500 hover:text-slate-900 hover:bg-slate-100'}`}
