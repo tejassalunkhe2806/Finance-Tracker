@@ -1,6 +1,6 @@
-# 🌌 Aethera Finance — Modern Personal & Joint Finance Tracker
+# 🌌 Finance Tracker — Modern Personal & Joint Finance Tracker
 
-Aethera Finance is a beautiful, professional, and full-featured personal finance and budgeting monorepo. It supports multi-account ledgers, interactive visualizations, automated recurring transaction processing, savings goals allocation, and shared household tracking in real-time.
+Finance Tracker is a beautiful, professional, and full-featured personal finance and budgeting monorepo. It supports multi-account ledgers, interactive visualizations, automated recurring transaction processing, savings goals allocation, and shared household tracking in real-time.
 
 ---
 
