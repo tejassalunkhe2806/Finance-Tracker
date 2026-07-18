@@ -1,8 +1,18 @@
 # 🌌 Finance Tracker — Modern Personal & Joint Finance Tracker
 
-![Dashboard Mockup](images/dashboard_mockup.jpg)
+![Dashboard Overview](images/dashboard.png)
 
 Finance Tracker is a beautiful, professional, and full-featured personal finance and budgeting monorepo. It supports multi-account ledgers, interactive visualizations, automated recurring transaction processing, savings goals allocation, and shared household tracking in real-time.
+
+---
+
+## 📷 Screenshots
+
+### Transactions Ledger
+![Transactions Ledger](images/ledger.png)
+
+### Recurring Transactions Scheduler
+![Recurring Transactions Scheduler](images/recurring.png)
 
 ---
 
